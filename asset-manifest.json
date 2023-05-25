@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_bc_44_smokekans/static/css/main.bb45d7c6.css",
-    "main.js": "/react_node_bc_44_smokekans/static/js/main.ef6c2dcf.js",
+    "main.js": "/react_node_bc_44_smokekans/static/js/main.e2070af1.js",
     "static/media/animal-desktop@2x.png": "/react_node_bc_44_smokekans/static/media/animal-desktop@2x.f7dbfdb815a6aeeb0df9.png",
     "static/media/animal-tablet@2x.png": "/react_node_bc_44_smokekans/static/media/animal-tablet@2x.ab29a402ee04ba4ac9b1.png",
     "static/media/animal-mobile@2x.png": "/react_node_bc_44_smokekans/static/media/animal-mobile@2x.a35fc0a2931c9119b4b1.png",
@@ -43,10 +43,10 @@
     "static/media/plus.svg": "/react_node_bc_44_smokekans/static/media/plus.15fb208dd53f0ee16fabd7b0cbf24320.svg",
     "static/media/plus-small.svg": "/react_node_bc_44_smokekans/static/media/plus-small.650a349c690cb7c18bf2c342e62dc09b.svg",
     "main.bb45d7c6.css.map": "/react_node_bc_44_smokekans/static/css/main.bb45d7c6.css.map",
-    "main.ef6c2dcf.js.map": "/react_node_bc_44_smokekans/static/js/main.ef6c2dcf.js.map"
+    "main.e2070af1.js.map": "/react_node_bc_44_smokekans/static/js/main.e2070af1.js.map"
   },
   "entrypoints": [
     "static/css/main.bb45d7c6.css",
-    "static/js/main.ef6c2dcf.js"
+    "static/js/main.e2070af1.js"
   ]
 }
